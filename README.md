@@ -1,5 +1,5 @@
 # yt-flac-dl
-A very simple script wrapper for yt-dl. Download any yt playlist link as a .flac.
+A very simple script wrapper for [yt-dlp](https://github.com/yt-dlp/yt-dlp). Download any yt playlist link as a .flac.
 
 ## Usage:
 
