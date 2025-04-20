@@ -3,5 +3,5 @@ A very simple script wrapper for [yt-dlp](https://github.com/yt-dlp/yt-dlp). Dow
 
 ## Usage:
 
-`./yt-flac-dl [playlist link] [download directory (optional)]`
+`./yt-flac-dl "[playlist link]" [download directory (optional)]`
 
